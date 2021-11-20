@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>ScoreBoard</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="arrow-up-bold.png" />
+    <None Remove="chevron-up.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="arrow-up-bold.png" />
+    <Resource Include="chevron-up.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.exe
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.deps.json
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.runtimeconfig.json
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.runtimeconfig.dev.json
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.dll
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ref\ScoreBoard 3.0.dll
+C:\Users\simon\source\repos\ScoreBoard 3.0\bin\Debug\net5.0-windows\ScoreBoard 3.0.pdb
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\arrow-up-bold.baml
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\Windows\MainWindow.g.cs
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0_MarkupCompile.cache
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0_MarkupCompile.lref
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\Windows\MainWindow.baml
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.g.resources
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.AssemblyInfo.cs
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.dll
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ref\ScoreBoard 3.0.dll
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.pdb
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.genruntimeconfig.cache
+C:\Users\simon\source\repos\ScoreBoard 3.0\obj\Debug\net5.0-windows\ScoreBoard 3.0.csproj.AssemblyReference.cache
